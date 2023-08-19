@@ -1,7 +1,7 @@
 ```markdown
 # Auto Refresh Bot using Puppeteer
 
-![GitHub](https://img.shields.io/github/license/your-username/auto-refresh-bot)
+![GitHub](https://img.shields.io/github/license/sandroamiridze/refresh-bot)
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2012-brightgreen)
 
 Automate webpage refreshing with Puppeteer, a Node.js library that provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol.
@@ -25,7 +25,7 @@ This project demonstrates how to create a simple bot that uses Puppeteer to auto
 2. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/auto-refresh-bot.git
+   git clone https://github.com/sandroamiridze/refresh-bot.git
    ```
 
 3. Install the project dependencies:
@@ -57,5 +57,3 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Replace `your-username` with your GitHub username in the URLs and badges. Adjust the content as needed to match your project's specifics. Make sure to include any additional sections or details that you think are important for users who might come across your repository.
